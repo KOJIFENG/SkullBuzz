@@ -1,0 +1,9 @@
+Building SkullBuzz
+
+See doc/readme-qt.rst for instructions on building SkullBuzz QT,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of SkullBuzz.
+
+See doc/build-*.txt for instructions on building skullbuzzd,
+the intended-for-services, no-graphical-interface, reference
+implementation of SkullBuzz.
